@@ -14,9 +14,9 @@
 
 ## Phase 2: Data Engine
 
-- [ ] Create `use-market-data.ts` hook to fetch from Binance Public API.
-- [ ] Implement Data Generator: Function to expand real API data into 100,000 mock rows.
-- [ ] Setup Zustand store for global market state management.
+- [x] Create `use-market-data.ts` hook to fetch from Binance Public API.
+- [x] Implement Data Generator: Function to expand real API data into 100,000 mock rows.
+- [x] Setup Zustand store for global market state management.
 
 ## Phase 3: High-Performance UI
 
