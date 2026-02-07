@@ -2,9 +2,15 @@
 
 ## Phase 1: Foundation
 
-- [ ] Setup Next.js with Tailwind CSS & shadcn/ui.
-- [ ] Install Core Dependencies: `@tanstack/react-table`, `@tanstack/react-virtual`, `@tanstack/react-query`, `zustand`, `lucide-react`.
-- [ ] Configure basic folder structure (`src/components/dashboard`, `src/hooks`, `src/store`).
+- [x] Setup Next.js with Tailwind CSS & shadcn/ui.
+- [x] Install Core Dependencies: `@tanstack/react-table`, `@tanstack/react-virtual`, `@tanstack/react-query`, `zustand`, `lucide-react`.
+- [x] Configure basic folder structure (`src/components/dashboard`, `src/hooks`, `src/store`).
+
+## Phase 1.5: Design System
+
+- [x] Apply brand color tokens to `globals.css` (Cream, Ice, Primary, Ink).
+- [x] Configure CSS variables for shadcn/ui theming.
+- [x] See [design-tokens.md](design-tokens.md) for full specification.
 
 ## Phase 2: Data Engine
 
